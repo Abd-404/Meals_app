@@ -4,15 +4,16 @@ The Meals App is your ultimate culinary companion, offering a variety of delicio
 
 # Screenshots
 
-![Alt text](assets/meals.gif)
+<img src="assets/meals.gif" alt="Meals App Demo" height="700" />
 
 <hr>
 
-![Alt text](assets/favourites.gif)
+<img src="assets/favourites.gif" alt="Meals App Demo" height="700" />
 
 <hr>
 
-![Alt text](assets/filters.gif)
+<img src="assets/filters.gif" alt="Meals App Demo" height="700" />
+
 
 # Features
 
